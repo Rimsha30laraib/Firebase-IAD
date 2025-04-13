@@ -9,7 +9,7 @@
 // This intent is for you to fork this starter code and then replace the
 // bodies of the service functions with code that fetches from a real
 // database like Firebase Firestore.
-import { db } from "../FireBaseConfig";
+import { db } from "../fireBaseConfig";
 import {
   collection,
   query,
